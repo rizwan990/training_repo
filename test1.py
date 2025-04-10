@@ -1,5 +1,5 @@
 def func(*ars):
-    print("Hello world")
+    print("Hello Rizwan")
 
 
 def another_feature():
